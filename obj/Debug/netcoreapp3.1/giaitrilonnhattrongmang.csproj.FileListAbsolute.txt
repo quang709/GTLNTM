@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\bin\Debug\netcoreapp3.1\giaitrilonnhattrongmang.exe
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\bin\Debug\netcoreapp3.1\giaitrilonnhattrongmang.deps.json
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\bin\Debug\netcoreapp3.1\giaitrilonnhattrongmang.runtimeconfig.json
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\bin\Debug\netcoreapp3.1\giaitrilonnhattrongmang.runtimeconfig.dev.json
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\bin\Debug\netcoreapp3.1\giaitrilonnhattrongmang.dll
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\bin\Debug\netcoreapp3.1\giaitrilonnhattrongmang.pdb
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\obj\Debug\netcoreapp3.1\giaitrilonnhattrongmang.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\obj\Debug\netcoreapp3.1\giaitrilonnhattrongmang.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\obj\Debug\netcoreapp3.1\giaitrilonnhattrongmang.AssemblyInfo.cs
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\obj\Debug\netcoreapp3.1\giaitrilonnhattrongmang.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\obj\Debug\netcoreapp3.1\giaitrilonnhattrongmang.dll
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\obj\Debug\netcoreapp3.1\giaitrilonnhattrongmang.pdb
+C:\Users\admin\source\repos\giaitrilonnhattrongmang\obj\Debug\netcoreapp3.1\giaitrilonnhattrongmang.genruntimeconfig.cache
